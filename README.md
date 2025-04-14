@@ -24,4 +24,3 @@ Este projeto simula um sistema simples de cálculo de média escolar usando **Ja
 - Operadores aritméticos
 - Arredondamento com `Math.round`
 
-## Exemplo de uso
